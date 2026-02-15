@@ -1,6 +1,6 @@
 # ProyectoFinal_Redes-neuronales-generativas-profundas
 
-Este repositorio contiene el informe final y los notebooks del proyecto de redes generativas aplicadas a retinografías (dataset APTOS), con el objetivo de explorar la generación de imágenes sintéticas condicionadas y su potencial uso para aumento de datos en retinopatía diabética.
+Este repositorio contiene el informe final y los notebooks del proyecto de redes generativas aplicadas a retinografías, con el objetivo de explorar la generación de imágenes sintéticas condicionadas y su potencial uso para aumento de datos en retinopatía diabética.
 
 ## Resumen
 En este trabajo se estudia la generación de retinografías sintéticas a partir de datasets públicos de Kaggle, evaluando modelos basados en GANs para apoyar estrategias de aumento de datos en clasificación de retinopatía diabética. Se implementa un flujo de preprocesamiento de imágenes y se entrenan modelos generativos (DCGAN y cWGAN-GP). Los resultados se analizan visualmente y se discuten las diferencias de estabilidad y calidad de generación entre los enfoques evaluados.
