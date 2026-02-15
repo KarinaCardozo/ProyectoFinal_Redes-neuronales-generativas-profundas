@@ -24,7 +24,7 @@ En este trabajo se estudia la generación de retinografías sintéticas a partir
 - Pillow
 - tqdm
 
-> Nota: Los notebooks fueron ejecutados con GPU (CUDA) cuando estuvo disponible.
+> Nota: Los notebooks fueron ejecutados con GPU (CUDA).
 
 ## Datasets
 Por motivos de tamaño y licencia, los datasets no se incluyen en este repositorio. En el informe se incluyen los enlaces a Kaggle.
