@@ -1,4 +1,4 @@
-# ProyectoFinal_Redes-neuronales-generativas-profundas
+# Aumento de datos en Retinopatía Diabética implementando DCGAN y cWGAN-GP
 
 En este trabajo se estudia la generación de retinografías sintéticas a partir de datasets públicos de Kaggle, evaluando modelos basados en GANs para apoyar estrategias de aumento de datos en clasificación de retinopatía diabética. Se implementa un flujo de preprocesamiento de imágenes y se entrenan modelos generativos (DCGAN y cWGAN-GP). Los resultados se analizan visualmente y se discuten las diferencias de estabilidad y calidad de generación entre los enfoques evaluados.
 
